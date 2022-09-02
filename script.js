@@ -34,7 +34,7 @@ const usuarios = Object.freeze([
   {
     id: 4,
     nome: "Danrley",
-    stacks: ["VieoMaker", "Effects", "Roteirista"],
+    stacks: ["VideoMaker", "Effects", "Roteirista"],
     idade: 30,
     endereco: {},
     password: "889977",
